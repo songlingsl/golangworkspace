@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3be4d1fc-7f38-48f5-80f5-0ffee3c6f158" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>NewHelloService</find>
+      <find>testcontainer-go</find>
+      <find>sum</find>
+      <find>visit</find>
+      <find>colly</find>
+      <find>MaxBodySize</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="E:\Go1.14" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1Z6SQQscOHB0UjEWYopOPUTLm9N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ask.go.tool.to.install.GoImportsTaskConsumer" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="E:/tmp" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/songlingsl/stormsamples.git" />
+      <recent name="https://github.com/bilibili/kratos.git" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JetBrains\workspacemodule\songlingkey\test" />
+      <recent name="F:\JetBrains\workspacemodule\songlingkey\micro\proto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JetBrains\workspacemodule\songlingkey\colly\login\131-163" />
+      <recent name="F:\JetBrains\workspacemodule\songlingkey\colly\login\101-130" />
+      <recent name="F:\JetBrains\workspacemodule\songlingkey\colly\login\71-100" />
+      <recent name="F:\JetBrains\workspacemodule\songlingkey\colly\login\41-70" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build api_user.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="songlingkey" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <envs>
+        <env name="GOARCH" value="amd64" />
+        <env name="GOOS" value="linux" />
+      </envs>
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/mybook/routers/api/bookapi/api_user.go" />
+      <package value="songlingkey" />
+      <directory value="$PROJECT_DIR$/" />
+      <output_directory value="E:/tmp" />
+      <option name="run" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="songlingkey" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/study/mapaddr/main.go" />
+      <package value="songlingkey" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="songlingkey" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <envs>
+        <env name="GOARCH" value="amd64" />
+        <env name="GOOS" value="linux" />
+      </envs>
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/mybook/main.go" />
+      <package value="songlingkey" />
+      <directory value="$PROJECT_DIR$/" />
+      <output_directory value="E:/tmp" />
+      <option name="run" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pewpew压测客户端" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="songlingkey" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/stresstest/pewpew/main.go" />
+      <package value="songlingkey" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="被测web服务" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="songlingkey" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/simpleweb/main.go" />
+      <package value="songlingkey" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.被测web服务" />
+      <item itemvalue="Go Build.pewpew压测客户端" />
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build main.go (1)" />
+      <item itemvalue="Go Build.go build api_user.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build api_user.go" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.pewpew压测客户端" />
+        <item itemvalue="Go Build.被测web服务" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestWXBizDataCrypt_Decrypt_test_in_songlingkey_mybook_routers_api_bookapi - 2019.10.20 at 10h 09m 08s.xml">
+      <configuration name="TestWXBizDataCrypt_Decrypt_test in songlingkey/mybook/routers/api/bookapi" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestWXBizDataCrypt_Decrypt_test_in_songlingkey_mybook_routers_api_bookapi - 2019.10.20 at 10h 09m 55s.xml">
+      <configuration name="TestWXBizDataCrypt_Decrypt_test in songlingkey/mybook/routers/api/bookapi" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestWXBizDataCrypt_Decrypt_test_in_songlingkey_mybook_routers_api_bookapi - 2019.10.20 at 10h 10m 27s.xml">
+      <configuration name="TestWXBizDataCrypt_Decrypt_test in songlingkey/mybook/routers/api/bookapi" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestWXBizDataCrypt_Decrypt_test_in_songlingkey_mybook_routers_api_bookapi - 2019.10.20 at 10h 11m 37s.xml">
+      <configuration name="TestWXBizDataCrypt_Decrypt_test in songlingkey/mybook/routers/api/bookapi" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestWXBizDataCrypt_Decrypt_test_in_songlingkey_mybook_routers_api_bookapi - 2019.10.20 at 10h 13m 08s.xml">
+      <configuration name="TestWXBizDataCrypt_Decrypt_test in songlingkey/mybook/routers/api/bookapi" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestWXBizDataCrypt_Decrypt_test_in_songlingkey_test - 2019.10.20 at 10h 14m 55s.xml">
+      <configuration name="TestWXBizDataCrypt_Decrypt_test in songlingkey/test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="56" y="0" key="SettingsEditor" timestamp="1584158397794">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="56" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584158397794" />
+  </component>
+</project>

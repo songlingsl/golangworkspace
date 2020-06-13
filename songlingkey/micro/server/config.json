@@ -1,0 +1,9 @@
+{
+  "mysql" : {
+    "host" : "9.168.0.11",
+    "port" : "3306",
+    "user" : "mytestroot",
+    "password" : "mytestroot",
+    "database" : "shopping"
+  }
+}
