@@ -19,6 +19,7 @@ require (
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gocolly/colly v1.2.0
 	github.com/golang/protobuf v1.3.2
+	github.com/havoc-io/go-keytar v0.0.0-20190805193312-c9afc30c49ac // indirect
 	github.com/jinzhu/gorm v1.9.11
 	github.com/json-iterator/go v1.1.7 // indirect
 	github.com/kennygrant/sanitize v1.2.4 // indirect
@@ -26,6 +27,7 @@ require (
 	github.com/lib/pq v1.2.0 // indirect
 	github.com/medivhzhan/weapp v1.5.1
 	github.com/micro/go-micro v1.7.0
+	github.com/muyids/chrome-cookie v0.0.0-20191002152535-d276703e72b5
 	github.com/nats-io/nats-server/v2 v2.0.2 // indirect
 	github.com/prometheus/common v0.6.0
 	github.com/rpcx-ecosystem/rpcx-examples3 v0.0.0-20190721124236-a9fe0330919e
